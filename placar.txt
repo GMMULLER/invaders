@@ -1,0 +1,17 @@
+Gustavo Muller: 34400
+Gustavo: 8600
+Gustavo: 4600
+Jeferson: 3800
+BBB: 3600
+Gustavo: 2900
+DDD: 2200
+GGG: 2200
+Jeronimo: 1800
+Gustavo: 1800
+Gustavo: 1800
+das: 1500
+Lucio: 1300
+DDD: 900
+EEE: 600
+AAA: 100
+CCC: 100
